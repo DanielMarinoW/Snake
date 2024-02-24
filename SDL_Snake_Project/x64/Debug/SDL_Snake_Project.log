@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\Miro\Desktop\EGT_Project_Snake\SDL_Snake_Project\Game.cpp(222): warning C4715: 'Game::ttf_init': not all control paths return a value
+  SDL_Snake_Project.vcxproj -> C:\Users\Miro\Desktop\EGT_Project_Snake\SDL_Snake_Project\x64\Debug\SDL_Snake_Project.exe
