@@ -1,8 +1,0 @@
-﻿  Game.cpp
-  SoundManager.cpp
-  TextureManager.cpp
-  main.cpp
-  Generating Code...
-C:\Users\Miro\Desktop\EGT_Project_Snake\SDL_Snake_Project\SoundManager.cpp(34): warning C4715: 'SoundManager::load': not all control paths return a value
-C:\Users\Miro\Desktop\EGT_Project_Snake\SDL_Snake_Project\Game.cpp(243): warning C4715: 'Game::ttf_init': not all control paths return a value
-  SDL_Snake_Project.vcxproj -> C:\Users\Miro\Desktop\EGT_Project_Snake\SDL_Snake_Project\x64\Debug\SDL_Snake_Project.exe
